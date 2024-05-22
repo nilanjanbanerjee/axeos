@@ -1,0 +1,248 @@
+{
+  "home": [
+    {
+      "sec1_title": "What we Provide to our Clients",
+      "sec1_desc": "Established fact that a reader will be distracted by the readable content",
+      "serviceselements": [
+        {
+          "id": 1,
+          "title": "Web Design 1",
+          "desc": "It is a long established fact that a reader will be distracted by the"
+        },
+        {
+          "id": 2,
+          "title": "Web Design 2",
+          "desc": "It is a long established fact that a reader will be distracted by the"
+        },
+        {
+          "id": 3,
+          "title": "Web Design 3",
+          "desc": "It is a long established fact that a reader will be distracted by the"
+        },
+        {
+          "id": 4,
+          "title": "Web Design 4",
+          "desc": "It is a long established fact that a reader will be distracted by the"
+        },
+        {
+          "id": 5,
+          "title": "Web Design 5",
+          "desc": "It is a long established fact that a reader will be distracted by the"
+        },
+        {
+          "id": 6,
+          "title": "Web Design 6",
+          "desc": "It is a long established fact that a reader will be distracted by the"
+        }
+      ],
+      "sec2_title": "let's introduce with our team",
+      "sec2_desc": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as",
+      "sec2items": [
+        {
+          "id": 1,
+          "number": "250",
+          "text": "Clients"
+        },
+        {
+          "id": 2,
+          "number": "250",
+          "text": "Projects"
+        },
+        {
+          "id": 3,
+          "number": "250",
+          "text": "Products"
+        }
+      ],
+      "sec3_title": "let's introduce with our team",
+      "sec3_desc": "established fact that a reader will be distracted by the readable content",
+      "sec3items": [
+        {
+          "id": 1,
+          "image": "http://via.placeholder.com/1000x650",
+          "name": "Eric Jhonson",
+          "designation": "Creative Director",
+          "desc": "It is a long established fact that a reader will be distracted by the"
+        },
+        {
+          "id": 2,
+          "image": "http://via.placeholder.com/1000x650",
+          "name": "Andrew Jhonson",
+          "designation": "Programmer",
+          "desc": "It is a long established fact that a reader will be distracted by the"
+        },
+        {
+          "id": 3,
+          "image": "http://via.placeholder.com/1000x650",
+          "name": "Steav Jhonson",
+          "designation": "Founder & Ceo",
+          "desc": "It is a long established fact that a reader will be distracted by the"
+        }
+      ],
+      "sec4_title": "What people says about us",
+      "sec4_desc": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as",
+      "sec4items": [
+        {
+          "id": 1,
+          "image": "http://via.placeholder.com/1000x650",
+          "title": "This is title 1",
+          "shortdesc": "It is a long established fact that a reader will be distracted by the",
+          "longdesc": "It is a long established fact that a reader will be distracted by the",
+          "author": "Nilanjan Banerjee",
+          "date": "January 19, 2017"
+        },
+        {
+          "id": 2,
+          "image": "http://via.placeholder.com/1000x650",
+          "title": "This is title 2",
+          "shortdesc": "It is a long established fact that a reader will be distracted by the",
+          "longdesc": "It is a long established fact that a reader will be distracted by the",
+          "author": "Nilanjan Banerjee",
+          "date": "January 19, 2017"
+        },
+        {
+          "id": 3,
+          "image": "http://via.placeholder.com/1000x650",
+          "title": "This is title 3",
+          "shortdesc": "It is a long established fact that a reader will be distracted by the",
+          "longdesc": "It is a long established fact that a reader will be distracted by the",
+          "author": "Nilanjan Banerjee",
+          "date": "January 19, 2017"
+        }
+      ],
+      "id": "d8bb"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Web Design 1",
+      "desc": "It is a long established fact that a reader will be distracted by the"
+    },
+    {
+      "id": "2",
+      "title": "Web Design 2",
+      "desc": "It is a long established fact that a reader will be distracted by the"
+    },
+    {
+      "id": "3",
+      "title": "Web Design 3",
+      "desc": "It is a long established fact that a reader will be distracted by the"
+    },
+    {
+      "id": "4",
+      "title": "Web Design 4",
+      "desc": "It is a long established fact that a reader will be distracted by the"
+    },
+    {
+      "id": "5",
+      "title": "Web Design 5",
+      "desc": "It is a long established fact that a reader will be distracted by the"
+    },
+    {
+      "id": "6",
+      "title": "Web Design 6",
+      "desc": "It is a long established fact that a reader will be distracted by the"
+    }
+  ],
+  "blog": [
+    {
+      "id": "1",
+      "image": "http://via.placeholder.com/1000x650",
+      "title": "This is title 1",
+      "shortdesc": "It is a long established fact that a reader will be distracted by the",
+      "longdesc": "It is a long established fact that a reader will be distracted by the",
+      "author": "Nilanjan Banerjee"
+    },
+    {
+      "id": "2",
+      "image": "http://via.placeholder.com/1000x650",
+      "title": "This is title 2",
+      "shortdesc": "It is a long established fact that a reader will be distracted by the",
+      "longdesc": "It is a long established fact that a reader will be distracted by the",
+      "author": "Nilanjan Banerjee"
+    },
+    {
+      "id": "3",
+      "image": "http://via.placeholder.com/1000x650",
+      "title": "This is title 3",
+      "shortdesc": "It is a long established fact that a reader will be distracted by the",
+      "longdesc": "It is a long established fact that a reader will be distracted by the",
+      "author": "Nilanjan Banerjee"
+    },
+    {
+      "id": "4",
+      "image": "http://via.placeholder.com/1000x650",
+      "title": "This is title 4",
+      "shortdesc": "It is a long established fact that a reader will be distracted by the",
+      "longdesc": "It is a long established fact that a reader will be distracted by the",
+      "author": "Nilanjan Banerjee"
+    },
+    {
+      "id": "5",
+      "image": "http://via.placeholder.com/1000x650",
+      "title": "This is title 5",
+      "shortdesc": "It is a long established fact that a reader will be distracted by the",
+      "longdesc": "It is a long established fact that a reader will be distracted by the",
+      "author": "Nilanjan Banerjee"
+    },
+    {
+      "id": "6",
+      "image": "http://via.placeholder.com/1000x650",
+      "title": "This is title 6",
+      "shortdesc": "It is a long established fact that a reader will be distracted by the",
+      "longdesc": "It is a long established fact that a reader will be distracted by the",
+      "author": "Nilanjan Banerjee"
+    }
+  ],
+  "user": [
+    {
+      "fname": "John Doe",
+      "lname": "John Doe",
+      "phone": "John Doe",
+      "email": "john.doe@example.com",
+      "message": "Hello, this is John!",
+      "id": "440f"
+    },
+    {
+      "fname": "John Doe",
+      "lname": "John Doe",
+      "phone": "John Doe",
+      "email": "john.doe@example.com",
+      "message": "Hello, this is John!",
+      "id": "d33e"
+    },
+    {
+      "fname": "John Doe",
+      "lname": "John Doe",
+      "phone": "John Doe",
+      "email": "john.doe@example.com",
+      "message": "Hello, this is John!",
+      "id": "9ab8"
+    },
+    {
+      "fname": "sdasd",
+      "lname": "faa",
+      "phone": "+919874039183",
+      "email": "bsoft89@gmail.com",
+      "message": "xczxczxv",
+      "id": "f3fb"
+    },
+    {
+      "fname": "aa",
+      "lname": "ss",
+      "phone": "+919874039183",
+      "email": "nilanjan.banerjee0@gmail.com",
+      "message": "ffsff",
+      "id": "04e9"
+    },
+    {
+      "id": "be9b",
+      "fname": "fdfd",
+      "lname": "ss",
+      "phone": "+919874039183",
+      "email": "bsoft89@gmail.com",
+      "message": "vbnnjfj"
+    }
+  ]
+}
